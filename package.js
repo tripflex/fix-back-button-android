@@ -1,7 +1,7 @@
 Package.describe({
   name: 'remcoder:fix-back-button-android',
   version: '0.0.1',
-  summary: 'Fixes the native backbutton on Android',
+  summary: 'Fixes the native back button on Android',
   git: 'https://github.com/remcoder/fix-back-button-android',
   documentation: 'README.md'
 });
