@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'tripflex:fix-back-button-android',
+  name: 'remcoder:fix-back-button-android',
   version: '0.0.2',
-  summary: 'Fixes the native back button on Android (fork of remcoder updated to work with org.android.tools.suspend)',
-  git: 'https://github.com/tripflex/fix-back-button-android',
+  summary: 'Fixes the native back button on Android',
+  git: 'https://github.com/remcoder/fix-back-button-android',
   documentation: 'README.md'
 });
 
