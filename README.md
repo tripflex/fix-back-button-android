@@ -23,7 +23,9 @@ To resolve this we can handle the back button event ourselves and force the app 
 https://stackoverflow.com/questions/28055836/back-button-in-cordova-phongap-meteor-build-for-android-wont-close-application
 
 If you do not want to install this package, you can add the org.android.tools.suspend plugin using this command:
-`meteor add cordova:org.android.tools.suspend@https://github.com/Lamerchun/org.android.tools.suspend.git#0dbb52cca0244ba22a8c7975895f0f45d2e9a4a9`
+```shell
+meteor add cordova:org.android.tools.suspend@https://github.com/Lamerchun/org.android.tools.suspend.git#0dbb52cca0244ba22a8c7975895f0f45d2e9a4a9
+```
 
     // requires Suspend plugin (org.android.tools.suspend)
     // see: https://github.com/Lamerchun/org.android.tools.suspend
